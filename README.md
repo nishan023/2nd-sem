@@ -14,9 +14,9 @@ Below is the list of labs included in this repository:
 |------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Discrete Structure(CA)  | **[Click Here](DS)**                                     | **[Click Here ](CA)**                                                                                                                      |
 | Object Oriented Programming(OOP)      | **[Click Here](https://github.com/nishan023/3rd-sem/tree/master/NM)**| **[Click Here ]()**                              |
-| Microprocessor(MP)     | **[Click Here](https://github.com/nishan023/3rd-sem/tree/master/CG)**                                         | **[Click Here ](https://drive.google.com/drive/folders/1o-8iP_xRatNx1UgJWnwl-DzK0mXgmZcA?usp=sharing)**                                                                                                                       |
-| Mathematics II(MTH-II) | **[Click Here](https://github.com/nishan023/3rd-sem/tree/master/DSA)**                          | **[Click Here](https://drive.google.com/drive/folders/1obwIVXNBBppQDXwwXUJ5l5SxjP-D3NGS?usp=sharing)**                                                                                                                      |
-| Statistics - I (STAT-I)      | **[Click Here](Statistics-II)**                               | **[Click Here](https://drive.google.com/drive/folders/1AwhaBz7afj7Jju-VNbQKlic7irTp7Rfj?usp=sharing)**                                                                                                    |
+| Microprocessor(MP)     | **[Click Here](https://github.com/nishan023/3rd-sem/tree/master/CG)**                                         | **[Click Here ]()**                                                                                                                       |
+| Mathematics II(MTH-II) | **[Click Here](https://github.com/nishan023/3rd-sem/tree/master/DSA)**                          | **[Click Here]()**                                                                                                                      |
+| Statistics - I (STAT-I)      | **[Click Here](Statistics-II)**                               | **[Click Here]()**                                                                                                    |
 
 Each lab folder contains the code files and any additional resources related to that lab.
 
