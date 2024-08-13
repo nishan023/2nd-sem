@@ -12,11 +12,11 @@ Below is the list of labs included in this repository:
 
 | Subjects               | Lab                                                                 | Output                                                                                                                                               |
 |------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Discrete Structure(CA)  | **[Click Here](DS)**                                     | **[Click Here ](CA)**                                                                                                                      |
-| Object Oriented Programming(OOP)      | **[Click Here](https://github.com/nishan023/3rd-sem/tree/master/NM)**| **[Click Here ]()**                              |
-| Microprocessor(MP)     | **[Click Here](https://github.com/nishan023/3rd-sem/tree/master/CG)**                                         | **[Click Here ]()**                                                                                                                       |
-| Mathematics II(MTH-II) | **[Click Here](https://github.com/nishan023/3rd-sem/tree/master/DSA)**                          | **[Click Here]()**                                                                                                                      |
-| Statistics - I (STAT-I)      | **[Click Here](Statistics-II)**                               | **[Click Here]()**                                                                                                    |
+| Discrete Structure(CA)  | **[Click Here]()**                                     | **[Click Here ]()**                                                                                                                      |
+| Object Oriented Programming(OOP)      | **[Click Here]()**| **[Click Here ]()**                              |
+| Microprocessor(MP)     | **[Click Here]()**                                         | **[Click Here ]()**                                                                                                                       |
+| Mathematics II(MTH-II) | **[Click Here]()**                          | **[Click Here]()**                                                                                                                      |
+| Statistics - I (STAT-I)      | **[Click Here]()**                               | **[Click Here]()**                                                                                                    |
 
 Each lab folder contains the code files and any additional resources related to that lab.
 
